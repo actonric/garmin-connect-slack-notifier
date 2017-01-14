@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="14" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="15" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="19" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="20" pc="268435487" symbol="onLayout"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="24" pc="268435501" symbol="onShow"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="28" pc="268435506" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="29" pc="268435510" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="30" pc="268435546" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="31" pc="268435558" symbol="onUpdate"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="36" pc="268435650" symbol="onHide"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="39" pc="268435655" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="40" pc="268435659" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="41" pc="268435679" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="45" pc="268435706" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="46" pc="268435719" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="47" pc="268435732" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="48" pc="268435756" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierView.mc" lineNum="51" pc="268435843" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="31" pc="268435860" symbol="onMenu"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="32" pc="268435864" symbol="onMenu"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="33" pc="268435876" symbol="onMenu"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="36" pc="268435880" symbol="onSelect"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="37" pc="268435884" symbol="onSelect"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="38" pc="268435896" symbol="onSelect"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="41" pc="268435900" symbol="makeRequest"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="42" pc="268435904" symbol="makeRequest"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="44" pc="268435927" symbol="makeRequest"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="49" pc="268435984" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="50" pc="268435988" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="51" pc="268436010" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="55" pc="268436021" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierDelegate.mc" lineNum="56" pc="268436025" symbol="onReceive"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierApp.mc" lineNum="12" pc="268436049" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierApp.mc" lineNum="13" pc="268436053" symbol="initialize"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierApp.mc" lineNum="17" pc="268436076" symbol="onStart"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierApp.mc" lineNum="21" pc="268436081" symbol="onStop"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierApp.mc" lineNum="25" pc="268436086" symbol="getInitialView"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierApp.mc" lineNum="26" pc="268436090" symbol="getInitialView"/>
+<entry filename="/Users/Richard/code/connectiq/workspace/slack-notifier/source/slack-notifierApp.mc" lineNum="27" pc="268436120" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="17" symbol="url"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="20" symbol="string"/>
+<entry id="8388639" symbol="Graphics"/>
+<entry field="true" id="19" symbol="options"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389115" symbol="mMessage"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="15" symbol="AppName"/>
+<entry id="21" method="true" symbol="makeRequest"/>
+<entry field="true" id="8389594" symbol="headers"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8388786" symbol="method"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="10" object="true" symbol="WebRequestApp"/>
+<entry id="8" object="true" symbol="WebRequestView"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="16" symbol="notify"/>
+<entry id="9" object="true" symbol="WebRequestDelegate"/>
+<entry id="23" symbol="mModel"/>
+<entry field="true" id="18" symbol="params"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="22" method="true" symbol="onReceive"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="11" symbol="mView"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435840" name="i" stackId="3" startPc="268435756"/>
+<entry endPc="268435840" name="keys" stackId="2" startPc="268435706"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="WebRequestView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="WebRequestView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="WebRequestView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="WebRequestView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="WebRequestView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceive" parent="WebRequestView">
+<param id="args"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="WebRequestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSelect" parent="WebRequestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="makeRequest" parent="WebRequestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="WebRequestDelegate">
+<param id="handler"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceive" parent="WebRequestDelegate">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="WebRequestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="WebRequestApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="WebRequestApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="WebRequestApp">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
